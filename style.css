@@ -1,6 +1,6 @@
 :root {
-  --pink: #C6E7FF;
-  --bg: #FFDDAE;
+  --pink: #7E60BF;
+  --bg: #4A4947;
   --shadow: 0 2px 2px rgb(0 0 0 / 0.5);
 }
 
@@ -17,7 +17,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(img/bg-prewed.jpg);
+  background-image: url(https://picsum.photos/id/129);
   background-size: cover;
   background-position: center;
   z-index: -1;
